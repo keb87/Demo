@@ -1,0 +1,200 @@
+	
+@context	"http://iiif.io/api/presentation/2/context.json"
+@id	"http://a8cf5d9a-339c-4e34-8f1d-a7e14c5139b7"
+@type	"sc:Manifest"
+label	"Alfred's Preface, Isidore's Etymologies, Parker Chronicle"
+metadata	[]
+description	
+0	
+@value	"Demonstration in Script History"
+@language	"en"
+license	"https://creativecommons.org/licenses/by/3.0/"
+attribution	"Parker Library"
+sequences	
+0	
+@id	"http://9e3e8c97-64e2-49de-ae8a-b9d635cda067"
+@type	"sc:Sequence"
+label	
+0	
+@value	"Normal Sequence"
+@language	"en"
+canvases	
+0	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/canvas/canvas-11"
+@type	"sc:Canvas"
+label	"1, Alfred"
+height	8715
+width	5211
+images	
+0	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/imageanno/anno-11"
+@type	"oa:Annotation"
+motivation	"sc:painting"
+resource	
+@id	"https://stacks.stanford.…/full/full/0/default.jpg"
+@type	"dctypes:Image"
+format	"image/jpeg"
+height	8715
+width	5211
+service	{…}
+on	"https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/canvas/canvas-11"
+otherContent	
+0	
+@type	"sc:AnnotationList"
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/list/1r.json"
+related	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/manifest.json"
+label	"Cambridge, Corpus Christi College, MS 012: Alfred the Great's Old English Translation of Gregory the Great, De cura pastorali"
+format	""
+1	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/canvas/canvas-12"
+@type	"sc:Canvas"
+label	"2, Alfred"
+height	8614
+width	5154
+images	
+0	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/imageanno/anno-12"
+@type	"oa:Annotation"
+motivation	"sc:painting"
+resource	
+@id	"https://stacks.stanford.…/full/full/0/default.jpg"
+@type	"dctypes:Image"
+format	"image/jpeg"
+height	8614
+width	5154
+service	{…}
+on	"https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/canvas/canvas-12"
+related	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/manifest.json"
+label	"Cambridge, Corpus Christi College, MS 012: Alfred the Great's Old English Translation of Gregory the Great, De cura pastorali"
+format	""
+2	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/canvas/canvas-7"
+@type	"sc:Canvas"
+label	"1 Parker"
+height	7602
+width	5509
+images	
+0	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/imageanno/anno-7"
+@type	"oa:Annotation"
+motivation	"sc:painting"
+resource	
+@id	"https://stacks.stanford.…/full/full/0/default.jpg"
+@type	"dctypes:Image"
+format	"image/jpeg"
+height	7602
+width	5509
+service	{…}
+on	"https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/canvas/canvas-7"
+related	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/manifest.json"
+label	"Cambridge, Corpus Christi College, MS 173: The Parker Chronicle"
+format	""
+3	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/canvas/canvas-8"
+@type	"sc:Canvas"
+label	"2 Parker"
+height	7496
+width	5492
+images	
+0	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/imageanno/anno-8"
+@type	"oa:Annotation"
+motivation	"sc:painting"
+resource	
+@id	"https://stacks.stanford.…/full/full/0/default.jpg"
+@type	"dctypes:Image"
+format	"image/jpeg"
+height	7496
+width	5492
+service	{…}
+on	"https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/canvas/canvas-8"
+related	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/manifest.json"
+label	"Cambridge, Corpus Christi College, MS 173: The Parker Chronicle"
+format	""
+4	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/canvas/canvas-172"
+@type	"sc:Canvas"
+label	"Last Parker page"
+height	7315
+width	5304
+images	
+0	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/imageanno/anno-172"
+@type	"oa:Annotation"
+motivation	"sc:painting"
+resource	
+@id	"https://stacks.stanford.…/full/full/0/default.jpg"
+@type	"dctypes:Image"
+format	"image/jpeg"
+height	7315
+width	5304
+service	{…}
+on	"https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/canvas/canvas-172"
+otherContent	
+0	
+@type	"sc:AnnotationList"
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/list/83v.json"
+related	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/manifest.json"
+label	"Cambridge, Corpus Christi College, MS 173: The Parker Chronicle"
+format	""
+5	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/canvas/canvas-7"
+@type	"sc:Canvas"
+label	"first Isidore"
+height	8850
+width	5564
+images	
+0	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/imageanno/anno-7"
+@type	"oa:Annotation"
+motivation	"sc:painting"
+resource	
+@id	"https://stacks.stanford.…/full/full/0/default.jpg"
+@type	"dctypes:Image"
+format	"image/jpeg"
+height	8850
+width	5564
+service	{…}
+on	"https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/canvas/canvas-7"
+otherContent	
+0	
+@type	"sc:AnnotationList"
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/list/ir.json"
+related	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/manifest.json"
+label	"Cambridge, Corpus Christi College, MS 022: Isidore of Seville, Etymologiae, Synonyma. Bestiary"
+format	""
+6	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/canvas/canvas-408"
+@type	"sc:Canvas"
+label	"Last Isidore"
+height	8856
+width	6005
+images	
+0	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/imageanno/anno-408"
+@type	"oa:Annotation"
+motivation	"sc:painting"
+resource	
+@id	"https://stacks.stanford.…/full/full/0/default.jpg"
+@type	"dctypes:Image"
+format	"image/jpeg"
+height	8856
+width	6005
+service	{…}
+on	"https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/canvas/canvas-408"
+otherContent	
+0	
+@type	"sc:AnnotationList"
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/list/181v.json"
+related	
+@id	"https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/manifest.json"
+label	"Cambridge, Corpus Christi College, MS 022: Isidore of Seville, Etymologiae, Synonyma. Bestiary"
+format	""
+structures	[]
+viewingDirection	"Left to Right"
